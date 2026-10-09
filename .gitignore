@@ -1,0 +1,11 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 大体积数据文件（可选：若数据超过 50MB 建议忽略，README 里注明获取方式）
+# data/*.csv
